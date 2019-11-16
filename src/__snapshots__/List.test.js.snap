@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> renders this UI as expected 1`] = `
+<section
+  className="List"
+>
+  <button
+    className="List-add-button"
+    onClick={[Function]}
+    type="button"
+  >
+    + Add Random Card
+  </button>
+  <header
+    className="List-header"
+  >
+    <h2>
+      AmyHeader
+    </h2>
+  </header>
+  <div
+    className="List-cards"
+  />
+</section>
+`;
